@@ -4,4 +4,4 @@
 
 Engineered to make your agents work like the top 1%. Bluebag is the missing Skills infrastructure layer the AI ecosystem forgot to build.
 
-[Learn more](www.bluebag.ai)
+[Learn more](https://www.bluebag.ai)
